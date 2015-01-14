@@ -7,4 +7,4 @@ Complex Systems 530 - Computer Modeling of Complex Systems (Winter 2015)
   * Term: Winter 2015
   * Schedule: Wednesdays and Friday, 1:00-2:30PM ET
   * Location: 120 West Hall (http://www.lsa.umich.edu/cscs/research/computerlab)
-  * Teachers: [Mike Bommarito](http://bommaritollc.com) and [Sarah Cherng](https://www.linkedin.com/pub/sarah-cherng/35/1b7/316)
+  * Teachers: [Mike Bommarito](linkedin.com/in/bommarito) and [Sarah Cherng](https://www.linkedin.com/pub/sarah-cherng/35/1b7/316)
