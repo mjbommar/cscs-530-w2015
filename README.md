@@ -1,5 +1,4 @@
 ## CSCS530 Winter 2015
-==============
 #### Complex Systems 530 - Computer Modeling of Complex Systems (Winter 2015)
 
   * Course ID: CMPLXSYS 530
