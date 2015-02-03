@@ -9,3 +9,9 @@ http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/002-
 
 Schelling Segregation Model
 http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/002-basic-space/002-schelling.ipynb
+
+Basic Networks 
+http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/002-basic-space/003-basic_network.ipynb
+
+Network SIR Model
+http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/002-basic-space/004-sir_model.ipynb
