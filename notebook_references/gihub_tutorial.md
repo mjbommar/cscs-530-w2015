@@ -1,4 +1,7 @@
 ####For Mac OS X
+span img {
+    vertical-align:middle;
+}
 __Download Github Graphical User Interface Client__
 
 Using a browser of your preference, navigate to: https://mac.github.com/
