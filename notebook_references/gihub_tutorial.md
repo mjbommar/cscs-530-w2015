@@ -75,7 +75,9 @@ __Download Github Graphical User Interface Client__
 
 5. Double click the new GitHub icon. You may be prompted with a warning that "GitHub" is an application downloaded from the internet. Click "Open" then select "Do Not Move" when the GitHub client asks if you'd like to move the application to your home applications directory (you can do this yourself later)
 
-6. 
+6. Once a blank GitHub screen has loaded, navigate to the upper left hand corner of your screen and select GitHub, then select Preferences
+
+7. At the following window, click the "Accounts" icon, and enter your GitHub user credentials, and click "Sign in" 
 
 
 ###GitHub Client Install for Windows
