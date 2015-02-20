@@ -135,11 +135,12 @@ IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it
 
 ## Recovering Deleted Data from GitHub
 1. If a file has been deleted from a folder, and the GitHub repository was updated without the file, you can recover your data.
+
 2. In the "History" section of GitHub, select the item that you want to "revert" or "roll back" to.
 
-IMPORTANT: Revert and Rollback are different in Github.
-Revert - Undo the action in the commit that you specify
-Rollback - Delete all committed changes up to the commit that you specify
+   IMPORTANT: Revert and Rollback are different in Github.
+   Revert - Undo the action in the commit that you specify
+   Rollback - Delete all committed changes up to the commit that you specify
 
 3. In Mac OS X: Select the commit in the history that you want to revert to, and in the right hand preview panel of the file that you want to revert the deletion of, click the "gear" symbol with the downwards pointing arrow next to it, and select "Revert this Commit" 
 <div style = text-align:center;>
