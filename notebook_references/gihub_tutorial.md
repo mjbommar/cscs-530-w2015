@@ -73,7 +73,7 @@ __Download Github Graphical User Interface Client__
 <img src="https://cloud.githubusercontent.com/assets/6100156/6279530/a08a4814-b870-11e4-8c15-39825a82d327.png" height=80px</img>
 </div>
 
-5. 
+5. Double click the new GitHub icon. You may be prompted with a warning that "GitHub" is an application downloaded from the internet. Click "Open" then select "Do Not Move" when the GitHub client asks if you'd like to move the application to your home applications directory (you can do this yourself later)
 
 
 ###GitHub Client for Windows
@@ -85,3 +85,7 @@ __Download Github Graphical User Interface Client__
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6287356/e123e9b6-b8de-11e4-887c-31dcb0f48233.png" height=80px</img>
 </div>
+
+3. Navigate to the folder where you have downloaded the file. In our case, the file that we just downloaded is named: "GitHubSetp.exe" 
+
+4. 
