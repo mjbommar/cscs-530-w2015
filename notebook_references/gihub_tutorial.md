@@ -122,7 +122,13 @@ IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6289761/6df15d2c-b8f0-11e4-8f2e-3f753545a236.png" height=120px</img>
 </div>
-   In Windows: You will see a new "Uncommited changes" section revealed in your GitHub client window
+   In Windows: You will see a new "Uncommited changes" section revealed in your GitHub client window. Click the blue button next to "Show" and you should see a panel in the existing window containing the file that was just added
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6289835/f1085512-b8f0-11e4-8dd6-5f49112e3146.PNG" height=180px</img>
 </div>
+
+3. Enter a summary and description of the file that you added
+
+4. Click "Commit to master" -- Your file will now be on the GitHub repository
+
+## Recovering Deleted Data from GitHub
