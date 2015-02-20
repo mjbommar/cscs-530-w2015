@@ -49,7 +49,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 2. Right click "Raw" in the upper right hand corner of the README.md section and select "Save link as" -- Save the file to anywhere in your machine. This will download the "raw" (i.e., original) version of the file. This technique is most useful on files that you want to open up "locally" on your machine (i.e., not in a web-browser). Examples include: *.docx, *.ppt, or *.ipynb
 <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6286891/7b69e944-b8da-11e4-8887-c4509883fbc3.png" height=30px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6286891/7b69e944-b8da-11e4-8887-c4509883fbc3.png" height=50px</img>
 </div>
 
 3. Use this technique only when you want individual files from a repository and are not planning to contribute any changes. For contributing changes to a repository, you should clone the repository. See below. 
