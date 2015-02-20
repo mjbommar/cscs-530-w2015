@@ -16,7 +16,7 @@ __Download Github Graphical User Interface Client__
 
 2. Click the blue button "Download Github for Mac"
 <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6279179/1112bda0-b86c-11e4-9786-b5b387f3b851.png" height=50px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6279179/1112bda0-b86c-11e4-9786-b5b387f3b851.png" height=30px</img>
 </div>
 
 3. Navigate to the folder where you have downloaded the file. In our case, the file that we just downloaded is named: "GitHub for Mac 199.zip" 
