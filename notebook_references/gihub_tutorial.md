@@ -123,4 +123,6 @@ IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it
 <img src="https://cloud.githubusercontent.com/assets/6100156/6289761/6df15d2c-b8f0-11e4-8f2e-3f753545a236.png" height=80px</img>
 </div>
    In Windows: You will see a new "Uncommited changes" section revealed in your GitHub client window
-
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6289835/f1085512-b8f0-11e4-8dd6-5f49112e3146.PNG" height=80px</img>
+</div>
