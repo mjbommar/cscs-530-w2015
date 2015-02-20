@@ -111,10 +111,16 @@ __Download Github Graphical User Interface Client__
 
 3. In the second screen, you will be able to view the GitHub repository (cscs-530-github-tutorial) that you created in the previous section
 
-4. Select cscs-530-github-tutorial (or whatever you named your tutorial in the previous section), and click "Clone cscs-530-github-tutorial" -- A new window will appear, prompting you to select a location on your computer where you want to clone the repository to. For now, let's use your Desktop.
+4. Select cscs-530-github-tutorial (or whatever you named your repository in the previous section), and click "Clone cscs-530-github-tutorial" -- A new window will appear, prompting you to select a location on your computer where you want to clone the repository to. For now, let's use your Desktop. Note: This will create a new folder on your Desktop named cscs-530-github-tutorial (or whatever you named your repository in the previous section).
 
-5. In Mac OS X: Click "History" to reveal the history of changes that have been made to your repository
-   In Windows: You should see a history of changes that have been made to your repository immediately after you clone the repository
+IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it. Anything you change on your computer will not change in GitHub unless you commit the changes (see below). Therefore, if you delete the folder, nothing will change in the GitHub repository, nor will you lose anything, unless you delete it explicitly from GitHub. If you delete items from the folder, you must push these changes to delete items from the GitHub repository. However, this is easily recoverable (see Recovering Deleted Data from GitHub)
 
 ###Adding Files to a Repository
+1. With the GitHub Client open in the background, click and drag any item that you want to add to your GitHub repository to the new cscs-530-github-tutorial (or whatever you named your repository in the previous section) folder that was added to your desktop.
+
+2. In OS X: Under the "Changes" tab, you will be able to see the new file that was just added
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6289761/6df15d2c-b8f0-11e4-8f2e-3f753545a236.png" height=80px</img>
+</div>
+   In Windows: You will see a new "Uncommited changes" section revealed in your GitHub client window
 
