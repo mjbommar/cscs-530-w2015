@@ -149,3 +149,5 @@ Rollback - Delete all committed changes up to the commit that you specify
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6294974/854fd544-b8f4-11e4-966a-0b063b6dbfee.PNG" height=80px</img>
 </div>
+
+4. The file will return to your local cloned directory and to your GitHub repository. Click "Sync" in the upper right hand corner to sync your changes
