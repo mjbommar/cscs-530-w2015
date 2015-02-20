@@ -47,7 +47,7 @@ __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to: https://mac.github.com/
 
-2. Click the blue button "Download Github for Mac"
+2. Click the blue button "Download GitHub for Mac"
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6279179/1112bda0-b86c-11e4-9786-b5b387f3b851.png" height=40px</img>
 </div>
@@ -67,7 +67,7 @@ __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to https://windows.github.com/
 
-2. Click the green button "Download Github for Windows" 
+2. Click the green button "Download GitHub for Windows" 
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6287356/e123e9b6-b8de-11e4-887c-31dcb0f48233.png" height=80px</img>
 </div>
