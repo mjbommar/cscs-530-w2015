@@ -62,4 +62,12 @@ __Download Github Graphical User Interface Client__
 5. 
 
 
-####For Windows
+####GitHub Client for Windows
+__Download Github Graphical User Interface Client__
+
+1. Using a browser of your preference, navigate to https://windows.github.com/
+
+2. Click the green button "Download Github for Windows" 
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6287356/e123e9b6-b8de-11e4-887c-31dcb0f48233.png" height=40px</img>
+</div>
