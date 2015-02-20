@@ -15,3 +15,12 @@ http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/002-
 
 Network SIR Model
 http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/002-basic-space/004-sir_model.ipynb
+
+HIV ABM Model
+http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/003-basic-abm/001-hiv.ipynb
+
+HIV ABM Parameter Sweep - Basic
+http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/003-basic-abm/002-hiv-parameter-sweep.ipynb
+
+HIV ABM Parameter Sweep - Advanced
+http://nbviewer.ipython.org/github/mjbommar/cscs-530-w2015/blob/master/code/003-basic-abm/003-hiv-parameter-sweep-harder.ipynb
