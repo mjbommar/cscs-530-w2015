@@ -15,7 +15,7 @@
 
 5. Click "Create Repository" 
 
-####Editing and creating *.md (markdown) Files
+####Editing *.md (markdown) Files
 1. In your new repository, click the "README.md" link under the section "Initial commit"
 
 2. Click the pen button at the top of the README.md file, to the left of the trash can button to edit the README.md file
@@ -23,6 +23,15 @@
 <img src="https://cloud.githubusercontent.com/assets/6100156/6286891/7b69e944-b8da-11e4-8887-c4509883fbc3.png" height=50px</img>
 </div>
 
+3. Edit the file to your liking, using Github Markdown syntax. See this page for some tips:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+4. Under the "Commit Changes" box under the markdown page, you can change the "Update README.md" text in the first, shorter (or thinner) box. This is your "commit message" that displays next to your file in the GitHub directory. You can change this commit mesage to anything you'd like, but keep it simple so others know what was changed. Since you are updating the README.md, let's leave it for now. An extended description in the larger text box is optional, so that you can let your collaborators know exactly what you changed into the future. 
+
+5. Click "Commit changes" to push your changes to your GitHub repository
+
+####Creating *.md (markdown) Files
+1. 
 
 ####For Mac OS X
 __Download Github Graphical User Interface Client__
