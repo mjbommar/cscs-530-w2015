@@ -103,4 +103,17 @@ __Download Github Graphical User Interface Client__
 
 7. At the next screen, it will say that there were no repositories found, click the blue "Dashboard" word link. 
 
-## Using the GitHub Client
+## Using the GitHub Client (for both Windows and OS X)
+###Cloning a Repository
+1. With the GitHub client loaded, click the + button in the upper left hand corner of the window
+
+2. Select "Clone"
+
+3. In the second screen, you will be able to view the GitHub repository (cscs-530-github-tutorial) that you created in the previous section
+
+4. Select cscs-530-github-tutorial (or whatever you named your tutorial in the previous section), and click "Clone cscs-530-github-tutorial" -- A new window will appear, prompting you to select a location on your computer where you want to clone the repository to. For now, let's use your Desktop.
+
+5. In Mac OS X: Click "History" to reveal the history of changes that have been made to your repository
+   In Windows: You should see a history of changes that have been made to your repository immediately after you clone the repository
+
+6. 
