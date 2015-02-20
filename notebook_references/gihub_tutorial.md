@@ -102,3 +102,5 @@ __Download Github Graphical User Interface Client__
 6. Next, at the Configure tab, enter your Name (upper text bar) and E-mail (lower text bar), or leave it at the default values that it sets at (should be something that you entered when you signed up for your GitHub account). Click "Continue"
 
 7. At the next screen, it will say that there were no repositories found, click the blue "Dashboard" word link. 
+
+## Using the GitHub Client
