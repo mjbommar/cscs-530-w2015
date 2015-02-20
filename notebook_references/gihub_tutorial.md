@@ -12,7 +12,7 @@ __Download Github Graphical User Interface Client__
 
 4. Double click "GitHub for Mac 199.zip" -- this will automatically create a new file named "GitHub" in the same folder as your zip file. The icon will look like this:
 <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6279530/a08a4814-b870-11e4-8c15-39825a82d327.png" height=60px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6279530/a08a4814-b870-11e4-8c15-39825a82d327.png" height=80px</img>
 </div>
 
 5. 
