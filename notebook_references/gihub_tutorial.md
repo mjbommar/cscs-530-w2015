@@ -116,4 +116,5 @@ __Download Github Graphical User Interface Client__
 5. In Mac OS X: Click "History" to reveal the history of changes that have been made to your repository
    In Windows: You should see a history of changes that have been made to your repository immediately after you clone the repository
 
-6. 
+###Adding Files to a Repository
+
