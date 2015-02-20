@@ -15,7 +15,13 @@
 
 5. Click "Create Repository" 
 
-####Editing *.md (markdown) Files
+####Editing and creating *.md (markdown) Files
+1. In your new repository, click the "README.md" link under the section "Initial commit"
+
+2. Click the pen button at the top of the README.md file, to the left of the trash can button to edit the README.md file
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6286891/7b69e944-b8da-11e4-8887-c4509883fbc3.png" height=50px</img>
+</div>
 
 
 ####For Mac OS X
