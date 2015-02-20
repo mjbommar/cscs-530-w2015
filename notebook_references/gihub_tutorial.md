@@ -9,7 +9,7 @@
 <img src="https://cloud.githubusercontent.com/assets/6100156/6286773/0e0220e8-b8d9-11e4-9d7e-1389ebf1ff53.png" height=100px</img>
 </div>
 
-3. Type in a name for your repository in the "Repository Name" box. Here, I use cscs-530-github-tutorial (Note: Avoid spaces and upper case letters, this prevents confusion and more work later!). Hint: Name it something unique so you know what the repository is for, a CSCS530 project, perhaps? Enter a description for the repository if you'd like. 
+3. Type in a name for your repository in the "Repository Name" box. Here, I use cscs-530-github-tutorial (Note: Avoid spaces and upper case letters, this prevents confusion and more work later!). Hint: Name it something unique so you know what the repository is for, a CSCS530 project, perhaps? Enter a description for the repository if you'd like
 
 4. Click "Initialize this repository with a README" and keep all other default options
 
@@ -26,17 +26,21 @@
 3. Edit the file to your liking, using Github Markdown syntax. See this page for some tips:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-4. Under the "Commit Changes" box under the markdown page, you can change the "Update README.md" text in the first, shorter (or thinner) box. This is your "commit message" that displays next to your file in the GitHub directory. You can change this commit mesage to anything you'd like, but keep it simple so others know what was changed. Since you are updating the README.md, let's leave it for now. An extended description in the larger text box is optional, so that you can let your collaborators know exactly what you changed into the future. 
+4. Under the "Commit Changes" box under the markdown page, you can change the "Update README.md" text in the first, shorter (or thinner) box. This is your "commit message" that displays next to your file in the GitHub directory. You can change this commit mesage to anything you'd like, but keep it simple so others know what was changed. Since you are updating the README.md, let's leave it for now. An extended description in the larger text box is optional, so that you can let your collaborators know exactly what you changed into the future
 
 5. Click "Commit changes" to push your changes to your GitHub repository
 
 ####Creating *.md (markdown) Files
 1. Navigate to the top page of your GitHub repository (where it shows all of the files that you currently have uploaded. For now, it should just be README.md)
 
-2. Click the + button next to the name of your GitHub repository
+2. Click the blue + button next to the name of your GitHub repository
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6287252/35a3c03e-b8de-11e4-9156-6e77f9c4c41e.png" height=50px</img>
 </div>
+
+3. At the top of the page, replace "name your file..." with a file name that ends with .md (so GitHub knows that it is a markdwon). Here, I use test.md
+
+4. Follow steps 3 - 5 in the "Editing *.md Files" section above to edit and commit changes to your new markdown file
 
 ####For Mac OS X
 __Download Github Graphical User Interface Client__
