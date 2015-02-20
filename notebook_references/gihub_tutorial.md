@@ -69,5 +69,5 @@ __Download Github Graphical User Interface Client__
 
 2. Click the green button "Download Github for Windows" 
 <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6287356/e123e9b6-b8de-11e4-887c-31dcb0f48233.png" height=40px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6287356/e123e9b6-b8de-11e4-887c-31dcb0f48233.png" height=80px</img>
 </div>
