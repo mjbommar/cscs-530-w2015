@@ -5,7 +5,7 @@
 1. Sign in to your github account at http://www.github.com
 2. In the right hand column, next to the label "Your repositories" click the green button with the label "+ New Repository:
 3. <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6286773/0e0220e8-b8d9-11e4-9d7e-1389ebf1ff53.png" height=50px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6286773/0e0220e8-b8d9-11e4-9d7e-1389ebf1ff53.png" height=100px</img>
 </div>
 
 
