@@ -9,6 +9,15 @@
 <img src="https://cloud.githubusercontent.com/assets/6100156/6286773/0e0220e8-b8d9-11e4-9d7e-1389ebf1ff53.png" height=100px</img>
 </div>
 
+3. Type in a name for your repository in the "Repository Name" box. Here, I use cscs-530-github-tutorial (Note: Avoid spaces and upper case letters, this prevents confusion and more work later!). Hint: Name it something unique so you know what the repository is for, a CSCS530 project, perhaps? Enter a description for the repository if you'd like. 
+
+4. Click "Initialize this repository with a README" and keep all other default options
+
+5. Click "Create Repository" 
+
+####Editing *.md (markdown) Files
+
+
 ####For Mac OS X
 __Download Github Graphical User Interface Client__
 
@@ -16,7 +25,7 @@ __Download Github Graphical User Interface Client__
 
 2. Click the blue button "Download Github for Mac"
 <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6279179/1112bda0-b86c-11e4-9786-b5b387f3b851.png" height=30px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6279179/1112bda0-b86c-11e4-9786-b5b387f3b851.png" height=40px</img>
 </div>
 
 3. Navigate to the folder where you have downloaded the file. In our case, the file that we just downloaded is named: "GitHub for Mac 199.zip" 
