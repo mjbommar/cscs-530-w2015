@@ -131,4 +131,18 @@ IMPORTANT: This folder is NOT your actual GitHub repository. It is a clone of it
 
 4. Click "Commit to master" -- Your file will now be on the GitHub repository
 
+5. Click the "Sync" with the circular arrow icon in the upper right hand corner to sync the changes that you made using GitHub client and the local Desktop folder with your new GitHub Repository 
+
 ## Recovering Deleted Data from GitHub
+1. If a file has been deleted from a folder, and the GitHub repository was updated without the file, you can recover your data.
+2. In the "History" section of GitHub, select the item that you want to "revert" or "roll back" to.
+
+IMPORTANT: Revert and Rollback are different in Github.
+Revert - Undo the action in the commit that you specify
+Rollback - Delete all committed changes up to the commit that you specify
+
+3. In Mac OS X: Select the commit that you want to revert to, and in the right hand preview panel of the file that you want to revert the deletion of, click the "gear" symbol with the downwards pointing arrow next to it, and select "Revert this Commit" 
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6290306/ea156b52-b8f3-11e4-9522-782aa702dc59.png" height=180px</img>
+</div>
+   In Windows: 
