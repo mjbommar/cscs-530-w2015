@@ -56,7 +56,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ##Using the GitHub Client
 
-###GitHub Client Use for Mac OS X
+###GitHub Client for Mac OS X
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to: https://mac.github.com/
@@ -76,7 +76,7 @@ __Download Github Graphical User Interface Client__
 5. 
 
 
-####GitHub Client for Windows
+###GitHub Client for Windows
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to https://windows.github.com/
