@@ -31,7 +31,12 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 5. Click "Commit changes" to push your changes to your GitHub repository
 
 ####Creating *.md (markdown) Files
-1. 
+1. Navigate to the top page of your GitHub repository (where it shows all of the files that you currently have uploaded. For now, it should just be README.md)
+
+2. Click the + button next to the name of your GitHub repository
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6287252/35a3c03e-b8de-11e4-9156-6e77f9c4c41e.png" height=50px</img>
+</div>
 
 ####For Mac OS X
 __Download Github Graphical User Interface Client__
