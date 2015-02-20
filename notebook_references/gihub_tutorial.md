@@ -54,9 +54,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 3. Use this technique only when you want individual files from a repository and are not planning to contribute any changes. For contributing changes to a repository, you should clone the repository. See below. 
 
-##Using the GitHub Client
+##Installing the GitHub Client
 
-###GitHub Client for Mac OS X
+###GitHub Client Install for Mac OS X
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to: https://mac.github.com/
@@ -68,15 +68,17 @@ __Download Github Graphical User Interface Client__
 
 3. Navigate to the folder where you have downloaded the file. In our case, the file that we just downloaded is named: "GitHub for Mac 199.zip" 
 
-4. Double click "GitHub for Mac 199.zip" -- this will automatically create a new file named "GitHub" in the same folder as your zip file. The icon will look like this:
+4. Double click "GitHub for Mac 199.zip" -- this will automatically create a new file named "GitHub" in the same folder as your zip file. The icon will look like this
 <div style = text-align:center;>
 <img src="https://cloud.githubusercontent.com/assets/6100156/6279530/a08a4814-b870-11e4-8c15-39825a82d327.png" height=80px</img>
 </div>
 
 5. Double click the new GitHub icon. You may be prompted with a warning that "GitHub" is an application downloaded from the internet. Click "Open" then select "Do Not Move" when the GitHub client asks if you'd like to move the application to your home applications directory (you can do this yourself later)
 
+6. 
 
-###GitHub Client for Windows
+
+###GitHub Client Install for Windows
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to https://windows.github.com/
@@ -86,6 +88,15 @@ __Download Github Graphical User Interface Client__
 <img src="https://cloud.githubusercontent.com/assets/6100156/6287356/e123e9b6-b8de-11e4-887c-31dcb0f48233.png" height=80px</img>
 </div>
 
-3. Navigate to the folder where you have downloaded the file. In our case, the file that we just downloaded is named: "GitHubSetp.exe" 
+3. Navigate to the folder where you have downloaded the file. In our case, the file that we just downloaded is named: "GitHubSetup.exe" -- The icon will look like this
+<div style = text-align:center;>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6279530/a08a4814-b870-11e4-8c15-39825a82d327.png" height=80px</img>
+</div>
 
-4. 
+4. Right click on the icon and select "Run as Administrator" -- When it prompts you about a security warning, click "Install"
+
+5. GitHub will automatically load once the install is finished. Once the program loads, at the welcome screen, it will request that you enter your GitHub user credentials (i.e., username and password). Enter these, and click "Log in" 
+
+6. Next, at the Configure tab, enter your Name (upper text bar) and E-mail (lower text bar), or leave it at the default values that it sets at (should be something that you entered when you signed up for your GitHub account). Click "Continue"
+
+7. At the next screen, it will say that there were no repositories found, click the blue "Dashboard" word link. 
