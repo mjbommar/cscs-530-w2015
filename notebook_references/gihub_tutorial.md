@@ -147,5 +147,5 @@ Rollback - Delete all committed changes up to the commit that you specify
 </div>
    In Windows: Select the commit in the history that you want to revert to, and in the right hand preview panel of the file that you want to revert the deletion of, click the "Revert" icon
 <div style = text-align:center;>
-<img src="https://cloud.githubusercontent.com/assets/6100156/6294974/854fd544-b8f4-11e4-966a-0b063b6dbfee.PNG" height=100px</img>
+<img src="https://cloud.githubusercontent.com/assets/6100156/6294974/854fd544-b8f4-11e4-966a-0b063b6dbfee.PNG" height=80px</img>
 </div>
