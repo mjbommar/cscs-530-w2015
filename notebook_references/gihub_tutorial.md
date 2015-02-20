@@ -42,7 +42,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 4. Follow steps 3 - 5 in the "Editing *.md Files" section above to edit and commit changes to your new markdown file
 
-####For Mac OS X
+###GitHub Client Use for Mac OS X
 __Download Github Graphical User Interface Client__
 
 1. Using a browser of your preference, navigate to: https://mac.github.com/
