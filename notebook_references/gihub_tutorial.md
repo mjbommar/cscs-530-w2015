@@ -109,7 +109,7 @@ __Download Github Graphical User Interface Client__
 
 2. Select "Clone"
 
-3. In the second screen, you will be able to view the GitHub repository (cscs-530-github-tutorial) that you created in the previous section
+3. In the second screen, you will be able to view all of the GitHub repositories that you have access to or are following. The GitHub repository (cscs-530-github-tutorial) that you created in the previous section will be there. 
 
 4. Select cscs-530-github-tutorial (or whatever you named your repository in the previous section), and click "Clone cscs-530-github-tutorial" -- A new window will appear, prompting you to select a location on your computer where you want to clone the repository to. For now, let's use your Desktop. Note: This will create a new folder on your Desktop named cscs-530-github-tutorial (or whatever you named your repository in the previous section).
 
