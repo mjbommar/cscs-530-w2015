@@ -1,4 +1,5 @@
 ,time,agent_a,agent_b,use_condom,is_transmission
-0,64,5,8,False,False
-1,75,4,8,False,False
-2,94,2,6,False,True
+0,8,6,8,False,False
+1,11,3,6,False,False
+2,89,1,2,False,False
+3,92,2,4,False,False
